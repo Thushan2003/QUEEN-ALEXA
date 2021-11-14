@@ -5,6 +5,7 @@ So We Dont encryption this Repo..
 *□△©️ DONT USE OUR API'S*
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/En-Cuzier/QUEEN-ALEXA)
 
-
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AiDarkEzio/PINKY_BOT-V10)
+  
 
 https://github.com/En-Cuzier/QUEEN-ALEXA/blob/master/QueenAlexa/Dockerfile
